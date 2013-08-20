@@ -144,9 +144,9 @@
     </repositories>
 
 	<scm>
-		<connection>scm:git:https://github.com/k-qing/build-line-plugin.git</connection>
-		<developerConnection>scm:git:https://github.com/k-qing/build-line-plugin.git</developerConnection>
-		<url>https://github.com/k-qing/build-line-plugin.git</url>
+		<connection>scm:git:https://github.com/jenkinsci/build-line-plugin.git</connection>
+		<developerConnection>scm:git:https://github.com/jenkinsci/build-line-plugin.git</developerConnection>
+		<url>https://github.com/jenkinsci/build-line-plugin.git</url>
     </scm>
 	
     <pluginRepositories>
